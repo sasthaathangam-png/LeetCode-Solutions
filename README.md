@@ -1,12 +1,16 @@
 # LeetCode-Solutions
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0283-move-zeroes) |
-## Two Pointers
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0283-move-zeroes) |
-<!---LeetCode Topics End-->
+# 🚀 LeetCode Solutions 
+
+Welcome to my LeetCode solutions repository! I use this space to track my daily Data Structures and Algorithms practice.
+
+---
+
+## 📌 Stats & Overview
+
+- **Language:** Java ☕
+- **Goal:** Master Arrays, Two Pointers, HashMaps, and Core DSA Concepts.
+- **Automation:** Auto-synced via LeetHub v2.
+
+---
+
+## 🛠️ Topic-Wise Breakdown
