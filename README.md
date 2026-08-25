@@ -21,6 +21,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
