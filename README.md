@@ -20,6 +20,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -37,4 +38,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
