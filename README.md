@@ -51,4 +51,16 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
