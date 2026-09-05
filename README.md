@@ -59,6 +59,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
