@@ -67,10 +67,12 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
