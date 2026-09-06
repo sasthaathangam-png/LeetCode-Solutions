@@ -45,6 +45,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -76,5 +77,10 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
