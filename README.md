@@ -20,6 +20,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -32,6 +33,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -84,4 +86,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
