@@ -49,6 +49,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -81,6 +83,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
