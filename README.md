@@ -46,6 +46,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0016-3sum-closest](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -54,6 +55,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -91,6 +93,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
