@@ -26,6 +26,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0016-3sum-closest](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -42,6 +43,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0018-4sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
