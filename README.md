@@ -95,6 +95,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0007-reverse-integer](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -129,6 +130,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
