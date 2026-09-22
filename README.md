@@ -100,6 +100,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0009-palindrome-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1925-count-square-sum-triples](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 ## Recursion
@@ -118,6 +119,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
@@ -182,4 +184,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
