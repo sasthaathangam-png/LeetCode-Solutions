@@ -31,6 +31,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0035-search-insert-position](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -59,6 +60,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0016-3sum-closest](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,6 +164,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
