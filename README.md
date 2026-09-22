@@ -33,6 +33,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0046-permutations](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -62,6 +63,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0016-3sum-closest](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +74,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -125,6 +128,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0020-valid-parentheses](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
