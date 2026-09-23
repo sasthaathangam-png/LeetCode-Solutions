@@ -39,6 +39,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0054-spiral-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -211,11 +212,13 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0043-multiply-strings](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
