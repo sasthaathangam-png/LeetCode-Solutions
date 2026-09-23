@@ -34,6 +34,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0047-permutations-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -171,6 +172,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0039-combination-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -203,4 +205,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
