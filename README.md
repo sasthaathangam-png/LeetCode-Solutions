@@ -37,6 +37,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0051-n-queens](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -85,6 +86,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
