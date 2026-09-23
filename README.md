@@ -38,6 +38,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0053-maximum-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -68,6 +69,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0018-4sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -221,4 +223,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
