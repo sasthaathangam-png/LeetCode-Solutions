@@ -43,6 +43,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -73,6 +74,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0056-merge-intervals](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0043-multiply-strings](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1925-count-square-sum-triples](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
