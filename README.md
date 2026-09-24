@@ -120,6 +120,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0048-rotate-image](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1925-count-square-sum-triples](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -231,4 +232,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
