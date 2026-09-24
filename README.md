@@ -41,6 +41,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0056-merge-intervals](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -127,6 +128,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0048-rotate-image](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1925-count-square-sum-triples](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
