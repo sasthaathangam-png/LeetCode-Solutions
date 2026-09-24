@@ -93,6 +93,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0043-multiply-strings](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1925-count-square-sum-triples](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -241,4 +243,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
