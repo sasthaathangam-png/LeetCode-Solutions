@@ -100,6 +100,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0062-unique-paths](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -158,6 +159,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
