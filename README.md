@@ -42,6 +42,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0059-spiral-matrix-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -89,6 +90,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0012-integer-to-roman](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -245,6 +247,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0054-spiral-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Algorithm X
 |  |
 | ------- |
