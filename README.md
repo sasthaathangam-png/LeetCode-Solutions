@@ -98,6 +98,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3941-password-strength](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3941-password-strength](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |
