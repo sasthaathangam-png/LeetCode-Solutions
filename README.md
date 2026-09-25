@@ -52,6 +52,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [1470-shuffle-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0067-add-binary](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
