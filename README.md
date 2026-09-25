@@ -43,6 +43,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0064-minimum-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -180,6 +181,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0033-search-in-rotated-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -248,6 +250,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0059-spiral-matrix-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
 |  |
 | ------- |
