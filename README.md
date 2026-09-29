@@ -303,4 +303,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
