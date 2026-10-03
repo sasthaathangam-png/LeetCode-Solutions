@@ -103,6 +103,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0073-set-matrix-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3941-password-strength](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Dynamic Programming
@@ -178,6 +179,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0067-add-binary](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -307,4 +309,12 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
