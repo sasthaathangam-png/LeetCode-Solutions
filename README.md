@@ -116,6 +116,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0064-minimum-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -235,6 +236,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0051-n-queens](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,4 +336,9 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
