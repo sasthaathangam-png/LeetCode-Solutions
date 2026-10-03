@@ -117,6 +117,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0070-climbing-stairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -157,6 +158,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0069-sqrtx](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1925-count-square-sum-triples](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -328,6 +330,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -337,8 +340,10 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
