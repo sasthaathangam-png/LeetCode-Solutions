@@ -336,6 +336,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0098-validate-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -343,6 +344,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0098-validate-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0098-validate-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -363,4 +366,5 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
