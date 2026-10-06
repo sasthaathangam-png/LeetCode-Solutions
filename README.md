@@ -142,6 +142,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0061-rotate-list](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -343,6 +344,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0101-symmetric-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -367,6 +370,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -383,4 +387,5 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0102-binary-tree-level-order-traversal](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
