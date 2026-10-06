@@ -105,6 +105,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0073-set-matrix-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3941-password-strength](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3941-password-strength) |
@@ -188,6 +189,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0072-edit-distance](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -329,6 +331,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
