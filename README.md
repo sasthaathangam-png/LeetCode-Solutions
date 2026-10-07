@@ -51,6 +51,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -106,6 +107,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
@@ -398,4 +400,8 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
