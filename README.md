@@ -77,6 +77,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -192,6 +193,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0067-add-binary](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
