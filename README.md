@@ -62,6 +62,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0977-squares-of-a-sorted-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -117,6 +118,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0299-bulls-and-cows](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3941-password-strength](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0089-gray-code](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1512-number-of-good-pairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -352,6 +355,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Tree
 |  |
 | ------- |
