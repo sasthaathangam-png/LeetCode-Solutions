@@ -65,6 +65,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [1470-shuffle-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2104-sum-of-subarray-ranges](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
@@ -301,6 +302,7 @@ Welcome to my LeetCode solutions repository! I use this space to track my daily 
 | [0054-spiral-matrix](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/sasthaathangam-png/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
